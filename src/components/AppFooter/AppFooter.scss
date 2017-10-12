@@ -1,0 +1,11 @@
+.AppFooter {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  padding-left: 10%;
+  background-color: #333333;
+
+  &__title {
+    color: #f55263;
+  }
+}

@@ -1,0 +1,11 @@
+.SearchResults {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+
+  &-empty {
+    font-size: 54px;
+    color: lightgray;
+  }
+}
